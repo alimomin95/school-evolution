@@ -1,0 +1,10 @@
+.\bricktype.o: BrickType.c
+.\bricktype.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\bricktype.o: ST7735.h
+.\bricktype.o: random.h
+.\bricktype.o: print.h
+.\bricktype.o: Variable.h
+.\bricktype.o: Timer0.h
+.\bricktype.o: TExaS.h
+.\bricktype.o: ..\tm4c123gh6pm.h
+.\bricktype.o: ADC.h
