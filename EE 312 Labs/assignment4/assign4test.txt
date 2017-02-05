@@ -1,0 +1,58 @@
+design = 3
+
+coding standards = 2
+	improper var/func naming = 0.5
+	improper const naming = 0.5
+	improper braces = 0.5
+	use of goto = 0.5
+header = 1
+comments = 1
+used more than 2 functions = 1
+
+caught file-opening error = 1
+caught no functions in file = 1
+caught mismatched = 1
+
+counted semicolons correctly = 3
+	counted comment = -1
+	counted string literal = -1
+found all functions = 1
+output = 1.5
+	function names = 0.5
+	SLOCs per function = 0.5
+	totals = 0.5
+output to file = 1.5
+	function names = 0.5
+	SLOCs per function = 0.5
+	totals = 0.5
+repeat = 1
+STOP = 1
+
+
+
+PrimesApp.c:
+main			40
+doTableOutput		6
+findCPSPs		9
+findPalindromes		14
+
+Total functions:	4
+Total SLOCs		69
+
+
+
+
+main.c:
+main                 	18
+slocCount    		51
+detectFunction        	4
+extractFunctionName    	4
+readSource             	3
+countLOC              	4
+printTable            	19
+checkComments         	8
+checkQuotes           	9
+
+Total Functions:	9
+Total Lines of Code:	120
+
