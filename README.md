@@ -1,1 +1,1 @@
-# school-evolution
+# school-projects
